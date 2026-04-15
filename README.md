@@ -51,7 +51,7 @@ The dataset includes over **64 million Amazon reviews** and **4.3 million produc
 
 ### Key Findings
 
-- Review volume shows strong growth from 2013–2019, with a spike in 2020 and continued volatility afterward :contentReference[oaicite:1]{index=1}  
+- Review volume shows strong growth from 2013–2019, with a spike in 2020 and continued volatility afterward
 
 - **Title duplication is significantly higher than full-text duplication**, making it a strong signal for fraud detection  
 
