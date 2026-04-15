@@ -2,7 +2,7 @@
 ## Final Project: Detecting AI-Driven Fraudulent Amazon Reviews Using Similarity Analysis
 
 **University of Chicago**  
-**Instructor:** Dmitri Sidorov
+**Instructor:** Dmitri Sidorov 
 **Term:** Fall 2025 
 
 ---
