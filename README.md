@@ -1,8 +1,8 @@
 # ADSP 31013 – Big Data and Cloud Computing
 ## Final Project: Detecting AI-Driven Fraudulent Amazon Reviews Using Similarity Analysis
 
-**University of Chicago**  
-**Instructor:** Dmitri Sidorov 
+**University of Chicago**   
+**Instructor:** Dmitri Sidorov    
 **Term:** Fall 2025 
 
 ---
