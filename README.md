@@ -20,7 +20,7 @@ The course covered key big data technologies and frameworks, including Hadoop an
 **Description:**  
 This project detects AI-driven fraudulent Amazon reviews using large-scale similarity analysis techniques. The goal is to identify suspicious or duplicated reviews that may indicate automated or coordinated fraud.
 
-The dataset includes over **64 million Amazon reviews** and **4.3 million product metadata records**, processed and cleaned into a large-scale analytical dataset :contentReference[oaicite:0]{index=0}.
+The dataset includes over **64 million Amazon reviews** and **4.3 million product metadata records**, processed and cleaned into a large-scale analytical dataset.
 
 ---
 
